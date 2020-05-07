@@ -1,0 +1,5 @@
+Hola ingeniero, para decirle que lo que envie antes de las nueve estaba incompleto
+porque el js me formo problemas y tenia previo a las 8 y no pude meter el modal en ese
+momento pero despues lo agregue y solucione varios problemas, tambien tuve problemas con
+las librerias de boopstrap y me toca buscar una que me funcione asi me quite parte de algo
+y pues nada le pediria el favor que me entienda ahi, muchas gracias.
