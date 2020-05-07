@@ -14,10 +14,14 @@ nav ul li a{
 	padding: 10px;
 	background-color: #2175bc;
 	color: #fff;
-}
+	
 
 nav ul li a:hover{
 	background-color: #2586d7;
 	margin-top: -2px;
 	padding-bottom: 12px;
+}
+
+div {
+	text-align: center;
 }
