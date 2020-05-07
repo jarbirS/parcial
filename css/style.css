@@ -25,3 +25,18 @@ nav ul li a:hover{
 div {
 	text-align: center;
 }
+
+.carousel-item{
+    height: 160px;
+} 
+.carousel-item img{
+    height: 160px;
+}
+
+#carro {
+	height: 160px;
+}
+
+#carro1 {
+	height: 160px;
+}
